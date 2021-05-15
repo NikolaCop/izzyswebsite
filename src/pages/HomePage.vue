@@ -20,11 +20,11 @@
       </div>
     </div>
 
-    <div class="row" id="newBg">
+    <div class="row p-5" id="newBg">
       <div class="col-12 text-center p-5">
-        <h3>
+        <h4>
           NEVER MISS AN UPDATE.
-        </h3>
+        </h4>
       </div>
       <div class="col-4">
         <form>
@@ -41,12 +41,8 @@
             <label for="exampleInputPassword1">Last Name</label>
             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
           </div>
-          <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-            <label class="form-check-label" for="exampleCheck1">Check me out</label>
-          </div>
-          <button type="submit" class="btn btn-primary">
-            Submit
+          <button type="submit" class="btn btn-dark text-light">
+            Sign Up
           </button>
         </form>
       </div>
@@ -77,7 +73,7 @@ export default {
 font-family: 'Tenor Sans', sans-serif;
 }
 #newBg{
-background-image: url("https://i.pinimg.com/originals/78/9d/10/789d108ae0ba9a93266170031c109189.jpg");
+background-image: url("https://wallpaperaccess.com/full/3702529.jpg");
 background-size: cover;
     color: rgb(46, 46, 46);
 font-family: 'Tenor Sans', sans-serif;
