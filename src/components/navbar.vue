@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <!-- <a class="navbar-brand" href="#">IZZY, HAIR ARTIST</a>  --> //NOTE MAKE THIS APPEAR ON MOBILE.
     <button class="navbar-toggler"
             type="button"
             data-toggle="collapse"
@@ -14,9 +14,12 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" href="#">Features</a>
-        <a class="nav-item nav-link" href="#">Pricing</a>
-        <a class="nav-item nav-link disabled" href="#">Disabled</a>
+        <a class="nav-item nav-link" href="#">About</a>
+        <a class="nav-item nav-link" href="#">Services</a>
+        <a class="nav-item nav-link" href="#">Gallery</a>
+        <a class="nav-item nav-link" href="#">Book Online</a>
+        <a class="nav-item nav-link" href="#">New Guest</a>
+        <a class="nav-item nav-link" href="#">Contact</a>
       </div>
     </div>
   </nav>

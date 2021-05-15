@@ -1,5 +1,13 @@
 <template>
   <header>
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1>
+          IZZY, HAIR ARTIST
+        </h1>
+      </div>
+    </div>
+
     <Navbar />
   </header>
   <main>
