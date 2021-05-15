@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="row" id="rowBg">
+    <div class="row p-4" id="rowBg">
       <div class="col-12 text-center">
         <h3>
           IZZY, HAIR ARTIST
@@ -29,8 +29,11 @@ export default {
 </script>
 <style lang="scss">
 @import "./assets/scss/main.scss";
+@import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
+
 #rowBg{
-  background-color: rgb(85, 104, 52);
+  background-color: rgb(65, 75, 48);
   color: rgb(219, 219, 219);
+font-family: 'Tenor Sans', sans-serif;
 }
 </style>

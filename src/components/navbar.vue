@@ -1,28 +1,30 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light ">
-    <!-- <a class="navbar-brand" href="#">IZZY, HAIR ARTIST</a>  //NOTE MAKE THIS APPEAR ON MOBILE. -->
-    <button class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" href="#">About</a>
-        <a class="nav-item nav-link" href="#">Services</a>
-        <a class="nav-item nav-link" href="#">Gallery</a>
-        <a class="nav-item nav-link" href="#">Book Online</a>
-        <a class="nav-item nav-link" href="#">New Guest</a>
-        <a class="nav-item nav-link" href="#">Contact</a>
+  <div class="container-fluid" id="rowBg">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+      <!-- <a class="navbar-brand" href="#">IZZY, HAIR ARTIST</a>  //NOTE MAKE THIS APPEAR ON MOBILE. -->
+      <button class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarNavAltMarkup"
+              aria-controls="navbarNavAltMarkup"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="#">About</a>
+          <a class="nav-item nav-link" href="#">Services</a>
+          <a class="nav-item nav-link" href="#">Gallery</a>
+          <a class="nav-item nav-link" href="#">Book Online</a>
+          <a class="nav-item nav-link" href="#">New Guest</a>
+          <a class="nav-item nav-link" href="#">Contact</a>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 </template>
 
 <script>
@@ -70,5 +72,11 @@ a:hover {
 }
 .nav-item .nav-link.router-link-exact-active{
   color: var(--primary);
+}
+@import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
+#rowBg{
+  background-color: rgb(65, 75, 48);
+  color: rgb(219, 219, 219);
+font-family: 'Tenor Sans', sans-serif;
 }
 </style>

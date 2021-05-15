@@ -33,6 +33,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
+@import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
 .home{
   text-align: center;
   user-select: none;
@@ -43,10 +44,8 @@ export default {
 
 }
 #rowBg{
-  background-color: rgb(85, 104, 52);
+  background-color: rgb(65, 75, 48);
     color: rgb(219, 219, 219);
-    font-family: minerva-modern, sans-serif;
-font-style: normal;
-font-weight: 400;
+font-family: 'Tenor Sans', sans-serif;
 }
 </style>
