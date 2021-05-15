@@ -1,10 +1,10 @@
 <template>
   <header>
-    <div class="row">
+    <div class="row" id="rowBg">
       <div class="col-12 text-center">
-        <h1>
+        <h3>
           IZZY, HAIR ARTIST
-        </h1>
+        </h3>
       </div>
     </div>
 
@@ -29,5 +29,8 @@ export default {
 </script>
 <style lang="scss">
 @import "./assets/scss/main.scss";
-
+#rowBg{
+  background-color: rgb(85, 104, 52);
+  color: rgb(219, 219, 219);
+}
 </style>

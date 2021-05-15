@@ -1,8 +1,8 @@
 <template>
-  <div class="container-flu">
+  <div class="container-fluid" id="rowBg">
     <div class="row">
       <div class="col-12">
-        <h3>RELAX & CONNECT WITH YOUR HOLISTIC BEAUTY</h3>
+        <h5>RELAX & CONNECT WITH YOUR HOLISTIC BEAUTY</h5>
       </div>
     </div>
 
@@ -14,9 +14,9 @@
 
     <div class="row">
       <div class="col-12">
-        <h3>
+        <h5>
           YOU’RE IN THE RIGHT PLACE!
-        </h3>
+        </h5>
       </div>
     </div>
 
@@ -41,5 +41,12 @@ export default {
     width: 200px;
   }
 
+}
+#rowBg{
+  background-color: rgb(85, 104, 52);
+    color: rgb(219, 219, 219);
+    font-family: minerva-modern, sans-serif;
+font-style: normal;
+font-weight: 400;
 }
 </style>

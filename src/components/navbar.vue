@@ -1,6 +1,6 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <!-- <a class="navbar-brand" href="#">IZZY, HAIR ARTIST</a>  --> //NOTE MAKE THIS APPEAR ON MOBILE.
+  <nav class="navbar navbar-expand-lg navbar-light ">
+    <!-- <a class="navbar-brand" href="#">IZZY, HAIR ARTIST</a>  //NOTE MAKE THIS APPEAR ON MOBILE. -->
     <button class="navbar-toggler"
             type="button"
             data-toggle="collapse"
