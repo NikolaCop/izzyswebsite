@@ -14,13 +14,13 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="#">About</a>
-          <a class="nav-item nav-link" href="#">Services</a>
-          <a class="nav-item nav-link" href="#">Gallery</a>
-          <a class="nav-item nav-link" href="#">Book Online</a>
-          <a class="nav-item nav-link" href="#">New Guest</a>
-          <a class="nav-item nav-link" href="#">Contact</a>
+          <a class="nav-item nav-link active text-white" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link text-white" href="#">About</a>
+          <a class="nav-item nav-link text-white" href="#">Services</a>
+          <a class="nav-item nav-link text-white" href="#">Gallery</a>
+          <a class="nav-item nav-link text-white" href="#">Book Online</a>
+          <a class="nav-item nav-link text-white" href="#">New Guest</a>
+          <a class="nav-item nav-link text-white" href="#">Contact</a>
         </div>
       </div>
     </nav>
@@ -75,7 +75,7 @@ a:hover {
 }
 @import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
 #rowBg{
-  background-color: rgb(65, 75, 48);
+  background-color: rgb(38, 39, 35);
   color: rgb(219, 219, 219);
 font-family: 'Tenor Sans', sans-serif;
 }
