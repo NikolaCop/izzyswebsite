@@ -1,6 +1,6 @@
 <template>
   <header>
-    <div class="row p-4" id="rowBg">
+    <div class="row pt-4" id="rowBg">
       <div class="col-12 text-center">
         <h3>
           IZZY, HAIR ARTIST
