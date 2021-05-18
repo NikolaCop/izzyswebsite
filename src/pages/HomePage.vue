@@ -20,6 +20,18 @@
       </div>
     </div>
 
+    <div class="row">
+      <div class="col-4">
+        <h6>NEW TO THE SALON?</h6>
+      </div>
+      <div class="col-4">
+        <h6>EASY SCHEDULING</h6>
+      </div>
+      <div class="col-4">
+        <h6>GET TO KNOW ME!</h6>
+      </div>
+    </div>
+
     <div class="row p-5" id="newBg">
       <div class="col-12 text-center p-5">
         <h4>
@@ -73,7 +85,7 @@ export default {
 font-family: 'Tenor Sans', sans-serif;
 }
 #newBg{
-background-image: url("https://wallpaperaccess.com/full/3702529.jpg");
+background-image: url("https://c1.wallpaperflare.com/preview/419/429/240/leaf-plant-eucalyptus-green.jpg");
 background-size: cover;
     color: rgb(46, 46, 46);
 font-family: 'Tenor Sans', sans-serif;
