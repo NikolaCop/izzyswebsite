@@ -14,13 +14,14 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link active text-white" href="#">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link text-white" href="#">About</a>
-          <a class="nav-item nav-link text-white" href="#">Services</a>
-          <a class="nav-item nav-link text-white" href="#">Gallery</a>
-          <a class="nav-item nav-link text-white" href="#">Book Online</a>
-          <a class="nav-item nav-link text-white" href="#">New Guest</a>
-          <a class="nav-item nav-link text-white" href="#">Contact</a>
+          <a class="nav-item nav-link active text-white pr-5 pl-5" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">About</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">Services</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">Gallery</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">Book Online</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">New Guest</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#">Contact</a>
+          <a class="nav-item nav-link text-white pr-5 pl-5" href="#"><i class="fab fa-instagram"></i></a>
         </div>
       </div>
     </nav>

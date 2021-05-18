@@ -1,8 +1,18 @@
 <template>
   <div class="container-fluid" id="rowBg">
-    <div class="row pt-5 pb-3">
-      <div class="col-12 text-center">
-        <h5>RELAX & CONNECT WITH YOUR HOLISTIC BEAUTY</h5>
+    <div class="wrapper">
+      <div class="banner">
+        <div class="img-text text-center">
+          frosted glass effect
+        </div>
+      </div>
+    </div>
+
+    <div class=".container">
+      <div class="row pt-5 pb-3">
+        <div class="col-12 text-center">
+          <h3>RELAX & CONNECT WITH YOUR HOLISTIC BEAUTY</h3>
+        </div>
       </div>
     </div>
 
@@ -14,32 +24,32 @@
 
     <div class="row pt-5">
       <div class="col-12 text-center pt-5 pb-3">
-        <h5>
+        <h3>
           YOU’RE IN THE RIGHT PLACE!
-        </h5>
+        </h3>
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-4">
-        <h6>NEW TO THE SALON?</h6>
+    <div class="row p-5">
+      <div class="col-4 text-center">
+        <h4>NEW TO THE SALON?</h4>
         <p>Get an idea of what to expect, from booking to the end of your visit.</p>
         <button type="button" class="btn btn-light">
-          Light
+          New Guest Page
         </button>
       </div>
-      <div class="col-4">
-        <h6>EASY SCHEDULING</h6>
+      <div class="col-4 text-center">
+        <h4>EASY SCHEDULING</h4>
         <p>Request an appointment online, or contact me directly with questions.</p>
         <button type="button" class="btn btn-light">
-          Light
+          Book Online
         </button>
       </div>
-      <div class="col-4">
-        <h6>GET TO KNOW ME!</h6>
+      <div class="col-4 text-center">
+        <h4>GET TO KNOW ME!</h4>
         <p> Connect with my values and passions, I cant wait to hear about yours!</p>
         <button type="button" class="btn btn-light">
-          Light
+          About
         </button>
       </div>
     </div>
@@ -50,20 +60,21 @@
           NEVER MISS AN UPDATE.
         </h4>
       </div>
-      <div class="col-4">
+
+      <div class="col-12 text-center">
         <form>
           <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
           </div>
           <div class="form-group">
             <label for="exampleInputPassword1">First Name</label>
-            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            <input type="password" class="form-control" id="InputEmail1" placeholder="Password">
           </div>
           <div class="form-group">
             <label for="exampleInputPassword1">Last Name</label>
-            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            <input type="password" class="form-control" id="InputEmail1" placeholder="Password">
           </div>
           <button type="submit" class="btn btn-dark text-light">
             Sign Up
@@ -101,5 +112,48 @@ background-image: url("https://c1.wallpaperflare.com/preview/419/429/240/leaf-pl
 background-size: cover;
     color: rgb(46, 46, 46);
 font-family: 'Tenor Sans', sans-serif;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+height: 100vh;
+// background-image:url("https://www.alexseal.com/wp-content/gallery/topcoat/swatch_t7153.gif");
+background-size: cover;
+background-position: fixed;
+background-repeat: no-repeat;
+}
+.banner{
+width: 600px;
+height: 350px;
+background: inherit;
+position: absolute;
+overflow: hidden;
+top: 50%;
+left: 50%;
+border-radius: 5px;
+transform: translate(-50%,-50);
+}
+.banner:before{
+  width: 650px;
+  height: 400px;
+  content: '';
+  position: absolute;
+  top: -25px;
+  left: -25px;
+  bottom: 0;
+  right: 0;
+  background: inherit;
+  box-shadow: inset 0 0 0 500px rgba(255,255,255,0.2);
+  filter: blur(10px);
+}
+.img-text{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+width: 500px;
 }
 </style>
