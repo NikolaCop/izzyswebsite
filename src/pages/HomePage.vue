@@ -23,12 +23,24 @@
     <div class="row">
       <div class="col-4">
         <h6>NEW TO THE SALON?</h6>
+        <p>Get an idea of what to expect, from booking to the end of your visit.</p>
+        <button type="button" class="btn btn-light">
+          Light
+        </button>
       </div>
       <div class="col-4">
         <h6>EASY SCHEDULING</h6>
+        <p>Request an appointment online, or contact me directly with questions.</p>
+        <button type="button" class="btn btn-light">
+          Light
+        </button>
       </div>
       <div class="col-4">
         <h6>GET TO KNOW ME!</h6>
+        <p> Connect with my values and passions, I cant wait to hear about yours!</p>
+        <button type="button" class="btn btn-light">
+          Light
+        </button>
       </div>
     </div>
 
