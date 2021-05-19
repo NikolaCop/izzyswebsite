@@ -17,7 +17,7 @@
 
       <div class="row">
         <div class="col-12 text-center">
-          <img src="https://images.squarespace-cdn.com/content/v1/600cfbb4f983552f0a570c8e/1614192594660-6Y3OYEUDO0IVYZ0PW52T/ke17ZwdGBToddI8pDm48kC2n6b4B5djcgIa_nCe7vYt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVATma4DTdtI8LeBCGG2CDImoP4hsGpBm45ZXmiL2FcDmVtPpR5HH5ikMffD2gaGnw/IMG_1867.jpg" alt="">
+          <img src="https://images.squarespace-cdn.com/content/v1/600cfbb4f983552f0a570c8e/1614192594660-6Y3OYEUDO0IVYZ0PW52T/ke17ZwdGBToddI8pDm48kC2n6b4B5djcgIa_nCe7vYt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVATma4DTdtI8LeBCGG2CDImoP4hsGpBm45ZXmiL2FcDmVtPpR5HH5ikMffD2gaGnw/IMG_1867.jpg" id="pic" alt="">
         </div>
       </div>
 
@@ -128,10 +128,13 @@ export default {
 font-family: 'Tenor Sans', sans-serif;
 }
 #newBg{
-background-image: url("https://c1.wallpaperflare.com/preview/419/429/240/leaf-plant-eucalyptus-green.jpg");
+background-image: url("https://i.pinimg.com/originals/f2/d5/7d/f2d57dda3aac1067fe6ec6231d3ae7f8.jpg");
 background-size: cover;
     color: rgb(46, 46, 46);
 font-family: 'Tenor Sans', sans-serif;
+}
+#pic{
+  border-radius: 10px;
 }
 .card{
  background: rgba(46, 46, 46, 0.8);

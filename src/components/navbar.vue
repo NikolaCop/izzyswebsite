@@ -66,13 +66,15 @@ export default {
   cursor: pointer;
 }
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .nav-link{
   text-transform: uppercase;
+
 }
 .nav-item .nav-link.router-link-exact-active{
-  color: var(--primary);
+  color: white;
+  text-decoration: underline;
 }
 @import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
 #rowBg{
