@@ -31,10 +31,10 @@
 
       <div class="row p-5">
         <div class="col-4 text-center">
-          <div class="card p-4" style="max-width: 20rem;">
-            <h4>NEW TO THE SALON?</h4>
+          <div class="card p-4" style="width: 20rem; height: 8rem;">
+            <h4> <b> NEW TO THE SALON? </b> </h4>
           </div>
-          <div class="card p-4" style="max-width: 20rem;">
+          <div class="card p-4" style="width: 20rem; height: 8rem;">
             <p>Get an idea of what to expect, from booking to the end of your visit.</p>
           </div>
           <button type="button" class="btn btn-dark btn-outline-light">
@@ -43,10 +43,10 @@
         <!-- END OF FIRST AREA -->
         </div>
         <div class="col-4 text-center">
-          <h4 class="card p-4" style="max-width: 20rem;">
-            EASY SCHEDULING
+          <h4 class="card p-4" style="width: 20rem; height: 8rem;">
+            <b> EASY SCHEDULING </b>
           </h4>
-          <p class="card p-4" style="max-width: 20rem;">
+          <p class="card p-4" style="width: 20rem;height: 8rem">
             Request an appointment online, or contact me directly with questions.
           </p>
           <button type="button" class="btn btn-dark btn-outline-light">
@@ -55,11 +55,11 @@
         <!-- END OF SECOND AREA -->
         </div>
         <div class="col-4 text-center">
-          <h4 class="card p-4" style="max-width: 20rem;">
-            GET TO KNOW ME!
+          <h4 class="card p-4" style="width: 20rem; height: 8rem;">
+            <b> GET TO KNOW ME! </b>
           </h4>
 
-          <p class="card p-4" style="max-width: 20rem;">
+          <p class="card p-4" style="width: 20rem; height: 8rem;">
             Connect with my values and passions, I cant wait to hear about yours!
           </p>
           <button type="button" class="btn btn-dark btn-outline-light">
@@ -123,7 +123,7 @@ export default {
 
 }
 #rowBg{
-  background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190619/pngtree-herbal-leaf-pattern-seamless-image_130677.jpg");
+  background-image: url("https://i.pinimg.com/originals/be/ea/58/beea58cf51b99a0b171a9dd095e36bcd.jpg");
     color: rgb(219, 219, 219);
 font-family: 'Tenor Sans', sans-serif;
 }
