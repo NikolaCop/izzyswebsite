@@ -21,7 +21,7 @@
           <a class="nav-item nav-link text-white pl-5" href="#">Book Online</a>
           <a class="nav-item nav-link text-white pl-5" href="#">New Guest</a>
           <a class="nav-item nav-link text-white pl-5" href="#">Contact</a>
-          <a class="nav-item nav-link text-white pl-5" href="#"><i class="fab fa-instagram"></i></a>
+          <a class="nav-item nav-link text-white pl-5" href="https://www.instagram.com/hairartistizzy/"><i class="fab fa-instagram"></i></a>
         </div>
       </div>
     </nav>
