@@ -8,7 +8,7 @@
       aria-labelledby="modalTitleId"
       aria-hidden="true"
     >
-      <div class="modal-dialog  modal-dialog-centered modal-lg" role="document">
+      <div class="modal-dialog  modal-dialog-centered modal-xl" role="document">
         <div class="modal-content">
           <div class="modal-body">
             <div class="row p-5">
@@ -19,7 +19,7 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-6 pt-5 pl-3 pr-3">
+              <div class="col-6 pb-5">
                 <img src="https://images.squarespace-cdn.com/content/v1/600cfbb4f983552f0a570c8e/1614191074272-LV3RWHM0QP57D11QXLZT/ke17ZwdGBToddI8pDm48kH_jyMKD5dc4sWtT72s84KZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1URjVRoTo_44URq6EKQD5UVYVCPirsFZhcxCauxpQwDPfxdLwnFHSFwykx4_DJJxhXw/IMG_1865.jpg?format=1500w" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
               </div>
               <div class="col-6 pr-5 pl-5">
@@ -35,7 +35,6 @@
                   I thrive on creating relationships with my guests and educating you about your hair.  I am committed to using products and practices that are better for the environment, our community and you!
                 </p>
                 <br>
-
                 <p>
                   For my color and products  I have chosen to work with Aveda, a Vegan and cruelty free line! Using only certified organic ingredients, no synthetic aromas, and ethical ingredient sourcing, these are non negotiable for myself and my guests!
                 </p>

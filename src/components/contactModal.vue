@@ -34,7 +34,7 @@
             </div>
             <div class="row pt-3 pr-5 pl-5">
               <i class="fas fa-undo-alt"></i>
-              <p class="tinyWords pl-2">
+              <p class="tinyWords pl-">
                 Ok, Take Me Back to the Hompage
               </p>
             </div>
