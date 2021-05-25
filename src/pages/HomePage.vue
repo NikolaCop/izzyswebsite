@@ -124,6 +124,7 @@ export default {
 }
 #rowBg{
   background-image: url("https://i.pinimg.com/originals/be/ea/58/beea58cf51b99a0b171a9dd095e36bcd.jpg");
+  background-size: cover;
     color: rgb(219, 219, 219);
 font-family: 'Tenor Sans', sans-serif;
 }

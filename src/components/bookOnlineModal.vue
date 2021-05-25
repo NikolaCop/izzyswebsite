@@ -1,8 +1,8 @@
 <template>
-  <div class="CreateKeepModal container-fluid">
+  <div class="bookOnlineModal container-fluid">
     <div
       class="modal fade"
-      id="bookOnline"
+      id="bookOnlineModal"
       tabindex="-1"
       role="dialog"
       aria-labelledby="modalTitleId"
@@ -24,7 +24,16 @@
             </button>
           </div>
           <div class="modal-body">
-            <h5>Please reschedule or cancel at least 24 hours before your appointment begins to avoid any late cancellation fee. If less than 24 hours notice is given you may be charged 50% of the total value of the appointment you have missed. Thank you!</h5>
+            <div class="row">
+              <h5>Please reschedule or cancel at least 24 hours before your appointment begins to avoid any late cancellation fee. If less than 24 hours notice is given you may be charged 50% of the total value of the appointment you have missed. Thank you!</h5>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <button type="button" class="btn btn-dark btn-outline-light">
+                  BOOK ONLINE
+                </button>
+              </div>
+            </div>
           </div>
         </div>
       </div>
