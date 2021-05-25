@@ -11,20 +11,24 @@
       <div class="modal-dialog  modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-body">
+            <div class="row pl-5 pb-3 pt-3">
+              <h2>CONTACT ME</h2>
+            </div>
             <div class="row">
-              <div class="col-6">
-                <h2>CONTACT ME</h2>
+              <div class="col-6 pl-5">
                 <p>For appointment inquires and other questions please feel free to reach out in any of these places. If you know what services you’d like to receive, or would like to come in for a complimentary consultation , you can go ahead and request your appointment now.</p>
               </div>
-              <div class="col-6">
+              <div class="col-6 pt-3">
                 <h5>
-                  INSTAGRAM: HAIRARTISTIZZY
+                  <i class="fab fa-instagram"></i> HAIRARTISTIZZY
                 </h5>
+                <br>
                 <h5>
-                  EMAIL: HAIRARTISTIZZY@GMAIL.COM
+                  <i class="fas fa-envelope-open-text"></i> HAIRARTISTIZZY@GMAIL.COM
                 </h5>
+                <br>
                 <h5>
-                  PHONE: 208 391 7534
+                  <i class="fas fa-phone-alt"></i> 208 391 7534
                 </h5>
               </div>
             </div>
