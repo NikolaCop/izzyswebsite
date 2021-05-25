@@ -31,7 +31,8 @@
               </div>
             </div>
             <div class="row pt-3 pr-5 pl-5">
-              <p class="tinyWords">
+              <i class="fas fa-undo-alt"></i>
+              <p class="tinyWords pl-2">
                 Ok, Take Me Back to the Hompage
               </p>
             </div>
@@ -66,6 +67,6 @@ export default {
   border-radius: 5px;
 }
 .tinyWords{
-  font-size: smaller;
+  font-size: xx-small;
 }
 </style>
