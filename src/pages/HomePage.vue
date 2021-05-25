@@ -49,7 +49,7 @@
           <p class="card p-4" style="width: 20rem;height: 8rem">
             Request an appointment online, or contact me directly with questions.
           </p>
-          <button type="button" class="btn btn-dark btn-outline-light">
+          <button type="button" class="btn btn-dark btn-outline-light" data-toggle="modal" data-target="#bookOnlineModal">
             Book Online
           </button>
         <!-- END OF SECOND AREA -->
@@ -62,7 +62,7 @@
           <p class="card p-4" style="width: 20rem; height: 8rem;">
             Connect with my values and passions, I cant wait to hear about yours!
           </p>
-          <button type="button" class="btn btn-dark btn-outline-light">
+          <button type="button" class="btn btn-dark btn-outline-light" data-toggle="modal" data-target="#aboutModal">
             About
           </button>
         </div>

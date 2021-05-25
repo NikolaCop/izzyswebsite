@@ -20,7 +20,7 @@
           <a class="nav-item nav-link text-white pl-5" href="#">Gallery</a>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#bookOnlineModal">Book Online <bookOnlineModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="#">New Guest</a>
-          <a class="nav-item nav-link text-white pl-5" href="#">Contact</a>
+          <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#contactModal">Contact <contactModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="https://www.instagram.com/hairartistizzy/"><i class="fab fa-instagram"></i></a>
         </div>
       </div>
