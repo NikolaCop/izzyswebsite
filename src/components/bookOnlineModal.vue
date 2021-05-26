@@ -12,19 +12,19 @@
         <div class="modal-content">
           <div class="modal-body">
             <div class="row">
-              <h5 class=" pl-3">
+              <h3 class=" pl-3">
                 <i> CANCELLATION ETIQUETTE </i>
-              </h5>
+              </h3>
             </div>
             <div class="row">
-              <div class="col-8">
-                <h6 class="pl-1">
-                  Please reschedule or cancel at least 24 hours before your appointment begins to avoid any late cancellation fee. If less than 24 hours notice is given you may be charged 50% of the total value of the appointment you have missed. Thank you!
-                </h6>
+              <div class="col-8 pr-5">
+                <h5 class="pl-1">
+                  Please reschedule or cancel at least 24 hours before your appointment begins to avoid any late cancellation fees. If less than 24 hours notice is given you may be charged 50% of the total value of the appointment you have missed. Thank you!
+                </h5>
               </div>
             </div>
             <div class="row p-5">
-              <div class="col-12 text-center pt-3 pb-2">
+              <div class="col-12 pt-3 pb-2">
                 <button type="button" class="bookOnline btn btn-dark btn-outline-light" onclick="location.href='https://square.site/book/LQQMA9RZJC609/izzy-hair-artist-boise-id';">
                   BOOK ONLINE!
                 </button>
