@@ -19,15 +19,25 @@
               <div class="col-6 pt-3">
                 <p>
                   Going to a hairstylist for the first time can be a bit nerve wracking. I want you to know that from the moment you fall on this page, to the moment you leave my chair, you and your hair will be taken care of.
-
+                </p>
+                <br>
+                <p>
                   I can't wait to meet you! The experience starts when you use the online booking request below. Your appointment request will be received and you will then receive a confirmation within 24 hours to confirm your appointment.
-
+                </p>
+                <br>
+                <p>
                   Next, you will arrive at the studio, parking with ease in our private lot.  Come inside and take a seat, and I will bring you to my chair! At this time, we will go through about a 15 minute consultation process. We will plan out, not just your first visit, but a long term plan to ensure all your hair goals are met. I will go over all pricing before we begin your services! Please know that I will truly listen and care, I want you to have the most relaxing and restorative experience possible!
-
+                </p>
+                <br>
+                <p>
                   If you're here for a color, a formula will be custom blended for you and recorded. This gives me a history of what we do together which will create consistent results and seamless transitions for any fun future changes! I have plenty of amenities to help you stay comfy as your color processes.
-
+                </p>
+                <br>
+                <p>
                   If you are here for a cut, I will create a shape that is perfect for your features, lifestyle and overall hair goals. I will finish with a beautiful style, and share pointers for your own at-home styling.
-
+                </p>
+                <br>
+                <p>
                   We'll wrap up the visit by sharing my recommendations for at-home care and set you up with your next visit!
                 </p>
               </div>
@@ -60,7 +70,7 @@ export default {
   color: rgb(46, 46, 46);
 }
 .modal-body{
-    background-image: url("https://www.wallpapertip.com/wmimgs/11-112111_wallpaper-grey-blue-gradient-linear-light-blue-gray.jpg");
+    background-image: url("https://i.pinimg.com/originals/6c/a1/ce/6ca1ce7b7f4728332f8899b198adf5ff.png");
     background-size: cover;
 
 }
