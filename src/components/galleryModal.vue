@@ -11,6 +11,13 @@
       <div class="modal-dialog  modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-body">
+            <div class="row">
+              <div class="col-12 text-dark">
+                <p>
+                  See more @hairartistizzy on Instagram!
+                </p>
+              </div>
+            </div>
             <div class="container">
               <figure>
                 <img src="https://assets.codepen.io/12005/windmill.jpg" alt="A windmill" />
