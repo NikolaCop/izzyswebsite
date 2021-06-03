@@ -16,7 +16,10 @@
         <div class="navbar-nav mx-auto">
           <!-- <a class="nav-item nav-link active text-white pl-5" href="#">Home <span class="sr-only">(current)</span></a> -->
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#aboutModal">About<aboutModal /></a>
-          <a class="nav-item nav-link text-white pl-5" href="#">Services</a>
+          <router-link :to="{name: 'ServicesPage'}">
+            <a class="nav-item nav-link text-white pl-5" href="#">
+              Services </a>
+          </router-link>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#galleryModal">Gallery <galleryModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#bookOnlineModal">Book Online <bookOnlineModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#newModal">New Guest <newModal /></a>
