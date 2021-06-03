@@ -60,7 +60,7 @@ export default {
   color: rgb(46, 46, 46);
 }
 .modal-body{
-    background-image: url("https://www.wallpapertip.com/wmimgs/11-112111_wallpaper-grey-blue-gradient-linear-light-blue-gray.jpg");
+    background-image: url("https://images.unsplash.com/photo-1610653216265-74079d187414?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmVpZ2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
     background-size: cover;
 
 }

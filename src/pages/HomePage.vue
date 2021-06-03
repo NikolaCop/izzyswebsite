@@ -158,43 +158,5 @@ font-family: 'Tenor Sans', sans-serif;
 #input2{
   width: 20%;
 }
-// .wrapper{
-// height: 100vh;
-// // background-image:url("https://www.alexseal.com/wp-content/gallery/topcoat/swatch_t7153.gif");
-// background-size: cover;
-// background-position: fixed;
-// background-repeat: no-repeat;
-// }
-// .banner{
-// width: 600px;
-// height: 350px;
-// background: inherit;
-// position: absolute;
-// overflow: hidden;
-// top: 50%;
-// left: 50%;
-// border-radius: 5px;
-// transform: translate(-50%,-50%);
-// }
-// .banner:before{
-//   width: 650px;
-//   height: 400px;
-//   content: '';
-//   position: absolute;
-//   top: -25px;
-//   left: -25px;
-//   bottom: 0;
-//   right: 0;
-//   background: inherit;
-//   box-shadow: inset 0 0 0 500px rgba(255,255,255,0.2);
-//   filter: blur(10px);
-// }
-// .img-text{
-// position: absolute;
-// top: 50%;
-// left: 50%;
-// transform: translate(-50%,-50%);
-// text-align: center;
-// width: 500px;
-// }
+
 </style>
