@@ -135,6 +135,8 @@ background-size: cover;
 font-family: 'Tenor Sans', sans-serif;
 }
 #pic{
+  height: 125vh;
+  width: 45vw;
   border-radius: 10px;
 }
 .card{

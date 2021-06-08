@@ -24,7 +24,9 @@
           </router-link>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#galleryModal">Gallery <galleryModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#bookOnlineModal">Book Online <bookOnlineModal /></a>
-          <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#newModal">New Guest <newModal /></a>
+          <router-link :to="{name: 'NewGuestPage'}">
+            <a class="nav-item nav-link text-white pl-5" href="#">New Guest <newModal /></a>
+          </router-link>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#contactModal">Contact <contactModal /></a>
           <a class="nav-item nav-link text-white pl-5" href="https://www.instagram.com/hairartistizzy/"><i class="fab fa-instagram"></i></a>
         </div>
