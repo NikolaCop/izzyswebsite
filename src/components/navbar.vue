@@ -15,7 +15,9 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav mx-auto">
           <a class="nav-item nav-link active text-white pl-5" href="#">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#aboutModal">About<aboutModal /></a>
+          <router-link :to="{name: 'About'}">
+            <a class="nav-item nav-link text-white pl-5" href="#">About</a>
+          </router-link>
           <router-link :to="{name: 'ServicesPage'}">
             <a class="nav-item nav-link text-white pl-5" href="#">
               Services </a>
