@@ -31,6 +31,7 @@ export default {
 .container-fluid{
   background-image: url("https://st4.depositphotos.com/5837058/24054/v/600/depositphotos_240548206-stock-illustration-cream-gradient-background-decor.jpg");
   background-size: cover;
+     font-family: 'Tenor Sans', sans-serif;
 }
 #bookOnlineBTN{
   width: 150px;

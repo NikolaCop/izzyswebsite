@@ -44,3 +44,9 @@ export default {
   components: {}
 }
 </script>
+<style scoped>
+.NewGuestPage{
+   font-family: 'Tenor Sans', sans-serif;
+}
+
+</style>

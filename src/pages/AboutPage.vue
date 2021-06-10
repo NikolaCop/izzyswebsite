@@ -38,3 +38,9 @@ export default {
   name: 'AboutPage'
 }
 </script>
+<style scoped>
+.about{
+  font-family: 'Tenor Sans', sans-serif;
+
+}
+</style>
