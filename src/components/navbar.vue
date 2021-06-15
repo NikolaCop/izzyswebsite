@@ -22,9 +22,6 @@
             <a class="nav-item nav-link text-white pl-5" href="#">
               Services </a>
           </router-link>
-          <router-link :to="{name: 'GalleryPage'}">
-            <a class="nav-item nav-link text-white pl-5" href="#">Gallery <galleryModal /></a>
-          </router-link>
           <a class="nav-item nav-link text-white pl-5" href="#" data-toggle="modal" data-target="#bookOnlineModal">Book Online <bookOnlineModal /></a>
           <router-link :to="{name: 'NewGuestPage'}">
             <a class="nav-item nav-link text-white pl-5" href="#">New Guest <newModal /></a>
