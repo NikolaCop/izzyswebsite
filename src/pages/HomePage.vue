@@ -16,7 +16,51 @@
       </div>
 
       <div class="row">
-        <div class="col-12 text-center">
+        <div class="col-6">
+          <div class="row p-5">
+            <div class="card p-4" style="width: 20rem; height: 8rem;">
+              <h4>
+                <b> EASY SCHEDULING </b>
+              </h4>
+              <p>
+                Request an appointment online, or contact me directly with questions.
+              </p>
+              <button type="button" class="btn btn-dark btn-outline-light" data-toggle="modal" data-target="#bookOnlineModal">
+                Book Online
+              </button>
+            </div>
+          </div>
+          <!--END OF FIRST AREA -->
+          <div class="row p-5">
+            <div class="card p-4" style="width: 20rem; height: 8rem;">
+              <h4>
+                <b> GET TO KNOW ME! </b>
+              </h4>
+
+              <p>
+                Connect with my values and passions, I cant wait to hear about yours!
+              </p>
+              <button type="button" class="btn btn-dark btn-outline-light" data-toggle="modal" data-target="#aboutModal">
+                About
+              </button>
+            </div>
+          </div>
+          <!--END OF SECOND AREA -->
+          <div class="row p-5">
+            <div class="card p-4" style="width: 20rem; height: 8rem;">
+              <h4>
+                <b> EASY SCHEDULING </b>
+              </h4>
+              <p>
+                Request an appointment online, or contact me directly with questions.
+              </p>
+              <button type="button" class="btn btn-dark btn-outline-light" data-toggle="modal" data-target="#bookOnlineModal">
+                Book Online
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-6 text-center pr-5">
           <img src="https://images.squarespace-cdn.com/content/v1/600cfbb4f983552f0a570c8e/1614192594660-6Y3OYEUDO0IVYZ0PW52T/ke17ZwdGBToddI8pDm48kC2n6b4B5djcgIa_nCe7vYt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVATma4DTdtI8LeBCGG2CDImoP4hsGpBm45ZXmiL2FcDmVtPpR5HH5ikMffD2gaGnw/IMG_1867.jpg" id="pic" alt="">
         </div>
       </div>
